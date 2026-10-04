@@ -1,0 +1,1 @@
+export default function Logo(){return <a className="logo" href="#top" aria-label="Tulas International School home"><img src="https://tis.edu.in/_next/static/media/schoolLogo.95f6e121.png" alt="Tulas International School logo"/><span><b>TULAS</b><small>INTERNATIONAL SCHOOL</small></span></a>}

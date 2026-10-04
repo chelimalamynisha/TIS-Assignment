@@ -1,0 +1,1 @@
+export default function SectionHeading({kicker,title,text,light=false}){return <div className={'section-heading '+(light?'light':'')}><span className="kicker">{kicker}</span><h2 dangerouslySetInnerHTML={{__html:title}}/>{text&&<p>{text}</p>}</div>}
